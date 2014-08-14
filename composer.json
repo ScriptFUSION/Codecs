@@ -1,0 +1,16 @@
+{
+    "name": "scriptfusion/codecs",
+    "description": "A collection of codecs for encoding and decoding data.",
+    "authors": [
+        {
+            "name": "Bilge",
+            "email": "bilge@scriptfusion.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": { "ScriptFUSION\\Codec\\": "src" }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "*"
+    }
+}
