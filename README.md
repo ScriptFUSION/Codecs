@@ -1,8 +1,8 @@
 Codecs
 ======
 
-A collection of codecs for encoding and decoding data. Encoders encode, decoders decode; codecs do both. Codecs inherit
-from the `Codec` interface.
+A collection of codecs for encoding and decoding data. Encoders encode, decoders decode; codecs do both and implement
+the `Codec` interface.
 
 Codecs and encoders list
 ------------------------
